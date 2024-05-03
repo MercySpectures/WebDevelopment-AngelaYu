@@ -19,6 +19,7 @@ This is a simple QR code generator built with Node.js using the `inquirer` and `
 2. Navigate to the project directory.
 3. Run `npm init` to instialise npm.
 4. Run `npm i inquirer qr-image` to install packages.
+5. Do not forget to add `"type": "module"` this line in package.json file
 
 ## Usage
 
